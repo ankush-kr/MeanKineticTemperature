@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Ankush K R</Authors>
+    <Description>This is C# library to clculate mean kinetic temperature when the temperature readings are taken at the same interval.</Description>
+    <PackageProjectUrl>https://github.com/ankush-kr/MeanKineticTemperature</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ankush-kr/MeanKineticTemperature</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>MKT; MeanKineticTemperatue;</PackageTags>
   </PropertyGroup>
 
 </Project>
