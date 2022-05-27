@@ -8,6 +8,7 @@
     <RepositoryUrl>https://github.com/ankush-kr/MeanKineticTemperature</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>MKT; MeanKineticTemperatue;</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
